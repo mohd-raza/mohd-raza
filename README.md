@@ -31,13 +31,13 @@
     <img src="https://github-readme-stats.vercel.app/api?username=mohd-raza&theme=merko&hide_border=false&include_all_commits=false&count_private=false" height="165">
   </a>
   <a href="https://github.com/mohd-raza/github-readme-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-raza&theme=merko&hide_border=false"  height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-raza&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  height="165">
   </a>
 
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
  <a href="https://git.io/streak-stats" align="middle">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=mohd-raza&theme=react&background=0d1117&border=666">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-raza&theme=merko&hide_border=false">
   </a>
   <br>
   <a href="https://github.com/mohd-raza/github-readme-activity-graph">
