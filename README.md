@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Deep Learning and Pytorch**
 
-- 🌱 I’m currently learning **I'm currently learning Data Structures Algorithms and Blockchain Development.**
+- 🌱 I’m currently learning **Data Structures Algorithms and Blockchain Development.**
 
 - 👯 I’m looking to collaborate on **Open Source, Web Development and Deep Learning Projects.**
 
@@ -41,9 +41,8 @@
   </a>
   <br>
   <a href="https://github.com/mohd-raza/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=mohd-raza&theme=react-dark&hide_border=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=mohd-raza&bg_color=181e17&color=bcdf5d&line=82c92c&point=bac468&area=true&hide_border=true">
   </a>
 </p>
-
 
 
