@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=mohd-raza&icon=6&color=0" alt="mohd-raza" /> </p>
 
+- 👨🏻‍🎓 **Third Year Computer Engineering Student** at **Dwarkadas Jivanlal Sanghvi College of Engineering**.
+
 - 🔭 I’m currently working on **Deep Learning and Pytorch**
 
 - 🌱 I’m currently learning **Data Structures Algorithms and Blockchain Development.**
