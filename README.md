@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Deep Learning and Pytorch**
 
-- 🌱 I’m currently learning **Data Structures Algorithms and Blockchain Development.**
+- 🌱 I’m currently learning **Flutter and Blockchain Development.**
 
 - 👯 I’m looking to collaborate on **Open Source, Web Development and Deep Learning Projects.**
 
@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ae,bootstrap,c,cpp,git,github,django,python,graphql,java,mongodb,mysql,nextjs,netlify,postgres,pytorch,react,redux,regex,solidity,tailwind,vscode,vite,nodejs,express,remix,ai" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,ae,bootstrap,c,cpp,git,github,django,python,graphql,java,mongodb,mysql,nextjs,netlify,postgres,pytorch,react,redux,regex,solidity,tailwind,vscode,vite,nodejs,express,remix,ai,dart,flutter" />
   </a>
 </p>
 
