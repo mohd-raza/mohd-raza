@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mohdraza.syed@gmail.com**
 
-- ⚡ Fun fact **I completed entire One piece in 2 months**
+- ⚡ Fun fact **I completed entire One piece and Bleach in 2 months**
 
 <h1 align="center">Connect with Me:</h1>
 <p align="center">
