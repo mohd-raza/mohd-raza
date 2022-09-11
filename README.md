@@ -37,10 +37,11 @@
 <h1 align="center">📊 GitHub Stats:</h1>
 <p align="center">
   <a href="https://github.com/mohd-raza/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohd-raza&theme=merko&hide_border=false&include_all_commits=false&count_private=false" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohd-raza&theme=merko&hide_border=false&include_all_commits=true&count_private=true" height="165">
   </a>
   <a href="https://github.com/mohd-raza/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-raza&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-raza&show_icons=true&theme=merko&include_all_commits=true&count_private=true" 
+    />
   </a>
 
 <h1 align="center"> 〽️Contributions: </h1>
