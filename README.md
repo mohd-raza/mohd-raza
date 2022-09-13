@@ -32,7 +32,7 @@ We stood **First** in the world at the **Europen Rover Challenge (ERC) Remote Ed
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ae,bootstrap,c,cpp,git,github,django,python,graphql,java,mongodb,mysql,nextjs,netlify,postgres,pytorch,react,redux,regex,solidity,tailwind,vscode,vite,nodejs,express,remix,ai,dart,flutter,selenium,tensorflow,materialui,stackoverflow,svg,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,ae,bootstrap,c,cpp,git,github,django,python,graphql,java,mongodb,mysql,nextjs,netlify,postgres,pytorch,react,redux,regex,solidity,tailwind,vscode,vite,nodejs,express,remix,ai,dart,flutter,selenium,tensorflow,materialui,stackoverflow,svg,androidstudio,codepen" />
   </a>
 </p>
 
