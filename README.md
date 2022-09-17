@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Raza</h1>
 <h3 align="center">A Data-Science Enthusiast and Full-Stack MERN Developer 👨🏻‍💻</h3>
-<img align="right" src="https://i.pinimg.com/originals/c4/1e/30/c41e304c90f23e849be92efcfe096b9e.gif" width="400" height="auto">
+<img align="right" src="https://media3.giphy.com/media/UTek0q3N8osh8agH4Y/giphy.gif?cid=6c09b95286a1ad41ff09b36ec526074c8786e0aed4fc5208&rid=giphy.gif&ct=g" width="400" height="auto">
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=mohd-raza&icon=6&color=0" alt="mohd-raza" /> </p>
 
 
