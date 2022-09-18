@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, Node and Deep Learning.**
 
-- 📫 How to reach me **mohdraza.syed@gmail.com**
+- 📩 How to reach me **mohdraza.syed@gmail.com**
 
 - Member of the ***Coding Department*** of my undergraduate college's official rover challenge team - ***DJS Antariksh***. 
 We stood **First** in the world at the **Europen Rover Challenge (ERC) Remote Edition 2022** held during 09-11 Sept 2022 🏅.
