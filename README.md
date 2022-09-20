@@ -45,7 +45,8 @@ We stood **First** in the world at the **Europen Rover Challenge (ERC) Remote Ed
     <img src="https://github-readme-stats.vercel.app/api?username=mohd-raza&theme=merko&hide_border=false&include_all_commits=true&count_private=true" height="165">
   </a>
   <a href="https://github.com/mohd-raza/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-raza&show_icons=true&theme=merko&include_all_commits=true&count_private=true" 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-raza&show_icons=true&theme=merko&include_all_commits=true&count_private=true&langs_count=7&layout=compact" 
+         height="192px"
     />
   </a>
 
