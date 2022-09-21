@@ -6,7 +6,7 @@
 
 - 👨🏻 **Third Year Computer Engineering Student** at **Dwarkadas Jivanlal Sanghvi College of Engineering**.
 
-- 🔭 I’m currently working on **Deep Learning and Pytorch**
+- 🔭 I’m currently working on **Chronic Kidney Disease Classification**
 
 - 🌱 I’m currently learning **Flutter and Blockchain Development.**
 
@@ -21,7 +21,6 @@ We stood **First** in the world at the **Europen Rover Challenge (ERC) Remote Ed
 
 - ⚡ Fun fact **I Never Give Up**
 
-- 
 
 <h1 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35" style="margin-right: 10px;"/>Connect with me</h1>
 <p align="center">
