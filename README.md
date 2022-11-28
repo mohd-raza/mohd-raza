@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mohammed Raza</h1>
+<!-- <h1 align="center">Hi 👋, I'm Mohammed Raza</h1>
 <h3 align="center">A Data-Science Enthusiast and Passionate Full-Stack MERN Developer 👨🏻‍💻</h3>
 <img align="right" src="https://media3.giphy.com/media/UTek0q3N8osh8agH4Y/giphy.gif?cid=6c09b95286a1ad41ff09b36ec526074c8786e0aed4fc5208&rid=giphy.gif&ct=g" width="400" height="auto">
-<p align="left"> <img src="https://visitcount.itsvg.in/api?id=mohd-raza&icon=6&color=0" alt="mohd-raza" /> </p>
-
-
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=mohd-raza&icon=6&color=0" alt="mohd-raza" /> </p> -->
+![github-header-image (6)](https://user-images.githubusercontent.com/91888013/204279287-8f135d99-8bec-44d8-994a-75db9bf22fda.png)
 - 👨🏻 **Third Year Computer Engineering Student** at **Dwarkadas Jivanlal Sanghvi College of Engineering**.
 
 - 🔭 I’m currently working on **Chronic Kidney Disease Classification**
