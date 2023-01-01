@@ -18,15 +18,15 @@
 
 - ⚡ Fun fact **I Never Give Up**
 
-
-<h1 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35" style="margin-right: 10px;"/>Connect with me</h1>
-<p align="center">
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35" style="margin-right: 10px;"/> -->
+<h2 align="left">Connect with me</h2>
+<p align="left">
 <a href="https://twitter.com/smrr_2511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smrr_2511" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohd-raza7110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-raza7110" height="30" width="40" /></a>
 <a href="https://instagram.com/_mxhd_raxa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mxhd_raxa" height="30" width="40" /></a>
 </p>
 
-<h1 align="center">🛠️Languages & Tools</h1>
+<!-- <h1 align="center">🛠️Languages & Tools</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -57,5 +57,5 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=mohd-raza&bg_color=181e17&color=bcdf5d&line=82c92c&point=bac468&area=true&hide_border=true">
   </a>
 </p>
-
+ -->
 
