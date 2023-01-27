@@ -1,10 +1,9 @@
-
-![github-header-image (6)](https://user-images.githubusercontent.com/91888013/204279287-8f135d99-8bec-44d8-994a-75db9bf22fda.png)
+![github-header-image (7)](https://user-images.githubusercontent.com/91888013/215090850-bf52493e-f320-4eff-9582-5523fc42a872.png)
 - 👨🏻 **Third Year Computer Engineering Student** at **Dwarkadas Jivanlal Sanghvi College of Engineering**.
 
 - 🔭 I’m currently working on **Statistical Analysis of MRI Images using Machine Learning**
 
-- 🌱 I’m currently learning **Flutter and Blockchain Development.**
+- 🌱 I’m currently learning **Blockchain & Cloud Development.**
 
 - 👯 I’m looking to collaborate on **Open Source, Web Development and Deep Learning Projects.**
 
