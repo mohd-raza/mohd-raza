@@ -1,4 +1,6 @@
-![github-header-image (7)](https://user-images.githubusercontent.com/91888013/215090850-bf52493e-f320-4eff-9582-5523fc42a872.png)
+<!-- ![github-header-image (7)](https://user-images.githubusercontent.com/91888013/215090850-bf52493e-f320-4eff-9582-5523fc42a872.png) -->
+![Mohammed Raza](https://user-images.githubusercontent.com/91888013/215143206-e75aca09-aabf-4c47-85fc-11adcbf6ce57.png)
+
 - 👨🏻 **Third Year Computer Engineering Student** at **Dwarkadas Jivanlal Sanghvi College of Engineering**.
 
 - 🔭 I’m currently working on **Statistical Analysis of MRI Images using Machine Learning**
