@@ -16,6 +16,7 @@
 - Member of the ***Coding Department*** of my undergraduate college's official rover challenge team - ***DJS Antariksh***. 
   - We stood **First** worldwide at the **Europen Rover Challenge (ERC) Remote Edition 2022** held during 09-11 Sept 2022 🏆.
   - We stood **Third** worldwide at the **International Rover Design Challenge (IRDC) 2022** held in October 2022 🏅.
+  - We stood **Eight** worldwide at the **International Rover Challenge (IRC) 2023** held in bengaluru during 28-31 Jan 2022.
 
 - ⚡ Fun fact **I Never Give Up**
 ---
